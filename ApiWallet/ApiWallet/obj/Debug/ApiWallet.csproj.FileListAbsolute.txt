@@ -1,0 +1,638 @@
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\ApiWallet.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\EntityFramework.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\WebGrease.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\EntityFramework.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.FirstUpdate.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.UpdateModels.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.UpdateModels2.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.UpdateModels3.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.UpdateModels4.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update1.resources
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb
+E:\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+E:\ApiWallet\ApiWallet\bin\ApiWallet.dll
+E:\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+E:\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+E:\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+E:\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+E:\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+E:\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+E:\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+E:\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+E:\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+E:\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+E:\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+E:\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+E:\ApiWallet\ApiWallet\bin\EntityFramework.dll
+E:\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+E:\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+E:\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+E:\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+E:\ApiWallet\ApiWallet\bin\WebGrease.dll
+E:\ApiWallet\ApiWallet\bin\EntityFramework.xml
+E:\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+E:\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+E:\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+E:\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+E:\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+E:\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csprojAssemblyReference.cache
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+C:\Users\mw123\Desktop\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update2.resources
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\WebGrease.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csprojAssemblyReference.cache
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update2.resources
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+D:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\WebGrease.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csprojAssemblyReference.cache
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update2.resources
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew.resources
+F:\Universidad\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew1.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\WebGrease.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csprojAssemblyReference.cache
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update2.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew1.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update1.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.cambiandocampostraslados.resources
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Cors.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.Cors.dll
+C:\Users\Grintsys\Desktop\Proyecto Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.Cors.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll.config
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\ApiWallet.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\ApiWallet.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.exe.config
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csc.rsp
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.exe.config
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\csi.rsp
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.AppContext.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Console.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Compression.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Claims.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.ValueTuple.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.exe.config
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\vbc.rsp
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\EntityFramework.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Cors.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.Cors.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\WebGrease.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\EntityFramework.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\EntityFramework.SqlServer.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.Cors.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Newtonsoft.Json.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Net.Http.Formatting.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Helpers.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Http.WebHost.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Mvc.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Optimization.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.Razor.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\System.Web.WebPages.Razor.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Antlr3.Runtime.pdb
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Optimization.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.Razor.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csprojAssemblyReference.cache
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update2.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.updatenew1.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.update1.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.Migrations.cambiandocampostraslados.resources
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.GenerateResource.cache
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.csproj.CopyComplete
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.dll
+C:\Users\gerso\Downloads\Wallet\ApiWallet\ApiWallet\obj\Debug\ApiWallet.pdb

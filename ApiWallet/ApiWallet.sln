@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWallet", "ApiWallet\ApiWallet.csproj", "{B27AC75F-F7B2-40C1-B03F-F1BEE90B4319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWallet.Tests", "ApiWallet.Tests\ApiWallet.Tests.csproj", "{19E999D7-52CC-4C7B-A934-8037D1E5CCC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27AC75F-F7B2-40C1-B03F-F1BEE90B4319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27AC75F-F7B2-40C1-B03F-F1BEE90B4319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27AC75F-F7B2-40C1-B03F-F1BEE90B4319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27AC75F-F7B2-40C1-B03F-F1BEE90B4319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E999D7-52CC-4C7B-A934-8037D1E5CCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E999D7-52CC-4C7B-A934-8037D1E5CCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E999D7-52CC-4C7B-A934-8037D1E5CCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E999D7-52CC-4C7B-A934-8037D1E5CCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D4E7E4-AD56-46A0-9F3E-9519A738C240}
+	EndGlobalSection
+EndGlobal
